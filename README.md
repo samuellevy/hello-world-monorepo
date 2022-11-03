@@ -1,19 +1,39 @@
 # Simple repository to store hello worlds of multiple languages and techonologies
 
 ## Required abilities
+### Frontend
 - simple text
 - text from variable
 - functions
 - call functions
-- view and styling if frontend
-- db connection if backend
-- crud if backend
-- fetch from uri if frontend
+- view and styling
+- crud example events and effects
+- fetch from uri
 - buttons and click events
 - execute function from button click
-- state control if frontend
+- state management
+- routing
+
+### Backend
+- simple text
+- text from variable
+- functions
+- call functions
+- routing
+- db connection
+- crud
 
 ## Technologies
-[ ] Vue
-[ ] React
-[ ] Django
+### Frontend
+- ~~Vue 3~~
+- ~~React~~
+- ~~Nextjs~~
+
+### Backend
+- ~~Django~~
+- ~~CakePHP~~
+- ~~Laravel~~
+- ~~Nestjs~~
+- ~~Express~~
+- ~~Ruby on Rails~~
+- ~~.Net Core~~
